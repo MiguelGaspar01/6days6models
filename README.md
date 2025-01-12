@@ -32,7 +32,7 @@ To set up the project on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/6days6models.git
+   git clone https://github.com/MiguelGaspar01/6days6models
    cd 6days6models
 
 2. **Install Dependencies**
