@@ -42,5 +42,6 @@ To set up the project on your local machine, follow these steps:
   pip install -r requirements.txt
 
 - **If already in a jupyter notebook**, run:
-  ```!pip install -r requirements.txt
+  ```python
+  !pip install -r requirements.txt
 
