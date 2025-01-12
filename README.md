@@ -35,8 +35,12 @@ To set up the project on your local machine, follow these steps:
    git clone https://github.com/yourusername/6days6models.git
    cd 6days6models
 
-2. **Install Dependencies**:
+2. **Install Dependencies**
 
-   Use pip install -r requirements.txt if on terminal
-   Use !pip install -r requirements.txt if already on a jupyer notebook
+- **If using the terminal**, run:
+  ```bash
+  pip install -r requirements.txt
+
+- **If already in a jupyter notebook**, run:
+  ```!pip install -r requirements.txt
 
